@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <section className="relative h-screen w-full pt-65 overflow-hidden">
+    <section className="relative h-screen w-full pt-65 overflow-hidden" id="home">
       {/* CLEAR IMAGE */}
       <img
         src="/bg3.jpeg"
